@@ -1,4 +1,17 @@
-# Who Am I? 🤔
+---
+title: "Whoami"
+draft: false
+searchHidden: true
+ShowToc: false
+ShowReadingTime: false
+disableHLJS: true
+robotsNoIndex: true
+hideMeta: true
+ShowBreadCrumbs: false
+description:  I’m rezydev, a security researcher and pentester focused on web exploits. Always building tools, breaking systems, and sharing insights on hacking.
+# edit_post: false
+# weight: 1
+---
 
 I am **Xexhausted**, a curious human powered by an endless supply of coffee, curiosity, and the unyielding desire to *investigate* all the things!
 
