@@ -1,3 +1,4 @@
-[submodule "Xexhausted.github.io"]
-	path = Xexhausted.github.io
-	url = https://github.com/Xexhausted/Xexhausted.github.io.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
