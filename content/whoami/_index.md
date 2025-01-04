@@ -1,35 +1,17 @@
----
-title: "Whoami"
-draft: false
-searchHidden: true
-ShowToc: false
-ShowReadingTime: false
-disableHLJS: true
-robotsNoIndex: true
-hideMeta: true
-ShowBreadCrumbs: false
-description:  I’m rezydev, a security researcher and pentester focused on web exploits. Always building tools, breaking systems, and sharing insights on hacking.
-# edit_post: false
-# weight: 1
----
 
-I am **Xexhausted**, a curious human powered by an endless supply of coffee, curiosity, and the unyielding desire to *investigate* all the things!
+## whomi?
 
-I love to:
-- Dive deep into research (sometimes too deep, like a rabbit hole).
-- Ask questions that no one has asked yet (and sometimes regret it).
-- Overthink everything. Yes, even my choice of socks. 🧦
-- Attempt to crack passwords (legally, of course 😅). 
+👋 Hello there! I'm **Xexhausted**, a cybersecurity enthusiast with a deep passion for **Forensics** and a knack for **puzzle-solving**. I love diving into the inner workings of systems, analyzing binaries, and breaking down vulnerabilities. My primary tool is **Python**, which I use extensively for scripting, automating tasks, and tackling challenges. 
 
-### My Expertise:
-- Investigating the unknown, just like a detective, minus the trench coat (because, you know... Wayland).
-- Researching obscure topics and connecting dots that aren't even there (yet).
-- Writing things you probably didn’t ask for, but now you have to read them. 😎
+I’m also actively participating in **Capture the Flag (CTF)** competitions, where I focus primarily on forensics challenges. Whether it's solving intricate puzzles, analyzing digital evidence, or uncovering hidden secrets, I’m always on the hunt for the next challenge.
 
-### My Motto:
-_"The only thing I investigate more than mysteries... is the next cup of coffee."_
+### 🔧 **Skills and Interests**
+- **Python**: My go-to language for solving problems and automating tasks.
+- **Forensics**: My main focus in CTFs, analyzing and interpreting digital evidence.
+- **Web Exploitation**: Currently learning the ins and outs.
+- **CTF**: Always striving to improve and learn through hands-on challenges.
 
----
+### 💡 **Motto**
+> "The only limits you have are the limits you believe..."
 
-P.S. If you know the meaning of life, feel free to let me know. I'm still investigating! 🕵️‍♂️
-
+Feel free to check out my repositories and writes, drop a star, or connect with me for collaboration. Let’s hack, learn, and grow together in the world of cybersecurity!
