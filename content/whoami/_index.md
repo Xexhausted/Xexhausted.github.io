@@ -1,7 +1,7 @@
 
 ## whomi?
 
-👋 Hello there! I'm **Xexhausted**, a cybersecurity enthusiast with a deep passion for **Forensics** and a knack for **puzzle-solving**. I love diving into the inner workings of systems, analyzing binaries, and breaking down vulnerabilities. My primary tool is **Python**, which I use extensively for scripting, automating tasks, and tackling challenges. 
+Hello there! I'm **Xexhausted**, a cybersecurity enthusiast with a deep passion for **Forensics** and a knack for **puzzle-solving**. I love diving into the inner workings of systems, analyzing binaries, and breaking down vulnerabilities. My primary tool is **Python**, which I use extensively for scripting, automating tasks, and tackling challenges. 
 
 I’m also actively participating in **Capture the Flag (CTF)** competitions, where I focus primarily on forensics challenges. Whether it's solving intricate puzzles, analyzing digital evidence, or uncovering hidden secrets, I’m always on the hunt for the next challenge.
 
