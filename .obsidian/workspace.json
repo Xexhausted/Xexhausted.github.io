@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "daec38d6b2d953f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "38adc8f8e47e486b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee37702db4f3058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/writeup/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          },
+          {
+            "id": "31b6b463d95036c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/writeup/ram_jhakri/Walkthrough of ram_jhakri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Walkthrough of ram_jhakri"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae09e409f5eb188b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3fd920866397aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd639adce8107b3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "99ce0a829bfaed26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "066208ebb85aab83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c190e593cf8407b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea2af7ae8815415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4678297b3f68b2ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/writeup/ram_jhakri/Walkthrough of ram_jhakri.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Walkthrough of ram_jhakri"
+            }
+          },
+          {
+            "id": "a2a88d80503b6117",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/writeup/ram_jhakri/Walkthrough of ram_jhakri.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Walkthrough of ram_jhakri"
+            }
+          },
+          {
+            "id": "4243a915b7170da6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56168e9a51b0cb74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/writeup/ram_jhakri/Walkthrough of ram_jhakri.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Walkthrough of ram_jhakri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "31b6b463d95036c6",
+  "lastOpenFiles": [
+    "content/writeup/ram_jhakri/assets/Pasted image 20250123220450.png",
+    "content/writeup/ram_jhakri/assets/Pasted image 20250123214008.png",
+    "content/writeup/ram_jhakri/assets/Pasted image 20250123213909.png",
+    "content/writeup/ram_jhakri/assets/Pasted image 20250123210625.png",
+    "content/writeup/ram_jhakri/assets/Pasted image 20250123210421.png",
+    "content/writeup/ram_jhakri/assets/Pasted image 20250123210158.png",
+    "content/writeup/ram_jhakri/assets/Pasted image 20250123210021.png",
+    "content/writeup/ram_jhakri/assets",
+    "content/writeup/ram_jhakri/assets/Pasted image 20250123205938.png",
+    "content/writeup/_index.md",
+    "content/writeup/ram_jhakri/Walkthrough of ram_jhakri.md",
+    "content/writeup/ram_jhakri"
+  ]
+}
