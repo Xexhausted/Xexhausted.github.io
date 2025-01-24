@@ -197,8 +197,7 @@ sudo -l
 1. **User `ram_jhakri` can run the following commands:**
     - `(ALL) NOPASSWD: ALL`
         - **Meaning**: The user can run **any command as any user without entering a password**, but there are exceptions (`!` entries).
-    - `!, /bin/rm, /usr/bin/rm`
-        - **Exception**: The user **cannot run `rm`** (the command to remove files or directories) either from `/bin/rm` or `/usr/bin/rm`.
+
     - `(ALL) NOPASSWD: /usr/bin/python3`
         - **Meaning**: The user can specifically run `/usr/bin/python3` as any user without a password.
 
