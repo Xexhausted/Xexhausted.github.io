@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38adc8f8e47e486b",
+        "id": "ae64b71660f5033a",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee37702db4f3058",
+            "id": "c1cc952ed042dd34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writeup/_index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "31b6b463d95036c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/writeup/ram_jhakri/Walkthrough of ram_jhakri.md",
+                "file": "content/writeup/CTF/ram_jhakri/Walkthrough of ram_jhakri.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "Walkthrough of ram_jhakri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,18 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31b6b463d95036c6",
+  "active": "c1cc952ed042dd34",
   "lastOpenFiles": [
+    "content/writeup/CTF/ram_jhakri/assets/Pasted image 20250124214330.png",
+    "content/writeup/CTF/ram_jhakri/assets/Pasted image 20250124214049.png",
+    "content/writeup/CTF/ram_jhakri/assets/Pasted image 20250124213915.png",
+    "content/writeup/CTF/ram_jhakri/assets/Pasted image 20250124213818.png",
+    "content/writeup/CTF/ram_jhakri/assets/Pasted image 20250124213548.png",
+    "content/writeup/CTF/ram_jhakri/assets/Pasted image 20250124213536.png",
+    "content/writeup/CTF/ram_jhakri/assets/Pasted image 20250124213458.png",
+    "content/writeup/CTF/ram_jhakri/assets/Pasted image 20250124213416.png",
+    "content/writeup/_index.md",
     "content/writeup/ram_jhakri/assets/Pasted image 20250123220450.png",
     "content/writeup/ram_jhakri/assets/Pasted image 20250123214008.png",
     "content/writeup/ram_jhakri/assets/Pasted image 20250123213909.png",
-    "content/writeup/ram_jhakri/assets/Pasted image 20250123210625.png",
-    "content/writeup/ram_jhakri/assets/Pasted image 20250123210421.png",
-    "content/writeup/ram_jhakri/assets/Pasted image 20250123210158.png",
-    "content/writeup/ram_jhakri/assets/Pasted image 20250123210021.png",
     "content/writeup/ram_jhakri/assets",
-    "content/writeup/ram_jhakri/assets/Pasted image 20250123205938.png",
-    "content/writeup/_index.md",
     "content/writeup/ram_jhakri/Walkthrough of ram_jhakri.md",
     "content/writeup/ram_jhakri"
   ]
